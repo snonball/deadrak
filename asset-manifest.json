@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4aba866e.css",
-    "main.js": "/static/js/main.abf26d61.js",
-    "static/js/787.77146c8c.chunk.js": "/static/js/787.77146c8c.chunk.js",
+    "main.css": "/static/css/main.3155345f.css",
+    "main.js": "/static/js/main.c1119cfd.js",
     "static/media/deadrak.png": "/static/media/deadrak.a4561317c1ff7d9422b9.png",
     "index.html": "/index.html",
-    "main.4aba866e.css.map": "/static/css/main.4aba866e.css.map",
-    "main.abf26d61.js.map": "/static/js/main.abf26d61.js.map",
-    "787.77146c8c.chunk.js.map": "/static/js/787.77146c8c.chunk.js.map"
+    "main.3155345f.css.map": "/static/css/main.3155345f.css.map",
+    "main.c1119cfd.js.map": "/static/js/main.c1119cfd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aba866e.css",
-    "static/js/main.abf26d61.js"
+    "static/css/main.3155345f.css",
+    "static/js/main.c1119cfd.js"
   ]
 }
