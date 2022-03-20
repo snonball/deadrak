@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3155345f.css",
-    "main.js": "/static/js/main.9962db79.js",
+    "main.css": "/static/css/main.69fa40ee.css",
+    "main.js": "/static/js/main.82bba8ca.js",
     "static/media/deadrak.png": "/static/media/deadrak.a4561317c1ff7d9422b9.png",
     "index.html": "/index.html",
-    "main.3155345f.css.map": "/static/css/main.3155345f.css.map",
-    "main.9962db79.js.map": "/static/js/main.9962db79.js.map"
+    "main.69fa40ee.css.map": "/static/css/main.69fa40ee.css.map",
+    "main.82bba8ca.js.map": "/static/js/main.82bba8ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.3155345f.css",
-    "static/js/main.9962db79.js"
+    "static/css/main.69fa40ee.css",
+    "static/js/main.82bba8ca.js"
   ]
 }
